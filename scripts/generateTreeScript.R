@@ -1,7 +1,8 @@
 library(ape)
 library(phangorn)
 library(geiger)
-foldername <- "D:\\Raghu\\Documents\\AlgorithmsForBioInformatics\\TreePlots\\"
+
+foldername <- "E:\\code_files\\Fall22\\advanced_bioinformatic\\TreeSpace\\TreePlots\\"
 if(!dir.exists(foldername)) dir.create(foldername)
 # generate trees
 trees <- allTrees(4, rooted = TRUE, tip.label = c("A","B","C","D"))
@@ -23,3 +24,4 @@ distance_df = as.data.frame(as.matrix(distance))
 
 library(writexl)
 write_xlsx(distance_df, paste(foldername,"results.xlsx"))
+
