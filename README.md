@@ -34,4 +34,11 @@ The scripts was coded in RStudio which is the source code editor that I recommen
 12. Make sure the  directory path in the foldername matches the path that contains the extracted folder and it should be the file TreePlots_Images
 13. After that is completed then you can run the code successfully
 
+# r_visualize_bioinformatics.R
+
+* Steps to access the script:
+
+1. If not already installed please install the imported libraries either on the console or the terminal
+2. Once the libraries have been successfully installed.
+3. Make sure the directory
 
