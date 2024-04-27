@@ -23,6 +23,7 @@ The scripts was coded in RStudio which is the source code editor that I recommen
 
 * Steps to access the script:
 
+1. click 
 
 
 
