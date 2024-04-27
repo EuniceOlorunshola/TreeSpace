@@ -28,9 +28,10 @@ The scripts was coded in RStudio which is the source code editor that I recommen
 3. After the zip folder is extracted
 4. If R and RStudio is not already installed, please install it
 5. After the installation is complete or if it is already installed 
-7. Click on the extrac'
-8. Open RStudio then click 
-9. Open RStudio then click on file and open file
-
+9. Open RStudio then click on file and open file then locate the file in the extracted folder
+10. Now you can see my code but before you can run it, if not already installed please install the imported libraries either on the console or the terminal.
+11. Once the libaries have been successfully installed.
+12. Make sure the  directory path in the foldername matches the path that contains the extracted folder and it should be the file TreePlots_Images
+13. After that is completed then you can run the code successfully
 
 
