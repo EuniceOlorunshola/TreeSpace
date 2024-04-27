@@ -21,4 +21,8 @@ The scripts was coded in RStudio which is the source code editor that I recommen
 
 # generateTreeScript.R(Script File)
 
+*Steps to access the script:
+
+
+
 
