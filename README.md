@@ -23,7 +23,14 @@ The scripts was coded in RStudio which is the source code editor that I recommen
 
 * Steps to access the script:
 
-1. click 
+1. click on the green button on the top right which says code then click on download zip file
+2. Extract the zip folder into your local computer
+3. After the zip folder is extracted
+4. If R and RStudio is not already installed, please install it
+5. After the installation is complete or if it is already installed 
+7. Click on the extrac'
+8. Open RStudio then click 
+9. Open RStudio then click on file and open file
 
 
 
