@@ -12,6 +12,13 @@ distance data to files in the directory path specified.
 **r_visualize_bioinformatics.R** :
 This script reads a phylogenetic tree file, visualizes the tree using the library ggtree then it adds some customization to the tree plot, such as changing the layout and adding tip labels.
 
-**sampleTreeScript.R**
+**sampleTreeScript.R** :
+This script was used as a sample to demonstrate the generation of random phylogenetic trees, visualization of the trees, and calculation of the distance between them using the distory package.
+
+# Directions to access the scripts:
+
+The scripts was coded in RStudio which is the source code editor that I recommended to use to run the scripts, but other editors can be used as well such as visual studio code, PyCharm, and jupyter notebook.
+
+# generateTreeScript.R(Script File)
 
 
