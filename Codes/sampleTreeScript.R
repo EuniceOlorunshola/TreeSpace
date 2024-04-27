@@ -1,0 +1,8 @@
+library(ape)
+tree <- rtree(n = 4)
+plot(tree, edge.width = 2)
+tree2 <- rtree(n = 4)
+plot(tree2, edge.width = 2)
+library(distory)
+distance = dist.multiPhylo(list(tree,tree2))
+print(distance)
